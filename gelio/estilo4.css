@@ -9,10 +9,22 @@ ul{
     height: 452px;
     
 }
-div{
-    float:center;
-    text-align: center;
-    
+
+.column {
+    float: left;
+    width: 50%;
+    padding:10px;
+    height:300px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+* {
+    box-sizing: border-box;
 }
 
 *{
