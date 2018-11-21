@@ -1,0 +1,20 @@
+ul{
+    list-style: square;
+}
+#foto1{
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 672px;
+    height: 452px;
+    
+}
+div{
+    float:center;
+    text-align: center;
+    
+}
+
+*{
+    margin: 0 auto; 
+}
