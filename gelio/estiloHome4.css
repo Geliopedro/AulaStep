@@ -1,0 +1,53 @@
+#cabecalho{
+    text-align: center;
+    color: white;
+    background: #A3D588;
+    width: 100%;
+    height: 20%;    
+    
+}
+#mytable{      
+    
+    width:60%;
+    text-align: center;
+    color:#1B5630;
+    border:2px solid #1B5630;
+    
+    
+}
+
+tr{
+    border:1px solid #020202;
+    height:30px;
+    
+    
+}
+td{
+    border:1px solid #020202;
+    
+}
+th{
+    background-color: #4CAF50;
+    color: white;
+    height:50px;
+    border:1px solid #020202;
+}
+
+body{
+    background-color: #D9EBCA;
+    text-align: left;
+    font-family: verdana;   
+    
+}
+
+#rodape{
+    text-align: center;
+    color: black;
+    background: #1B5630;
+    width: 100%;
+    height: 20%;
+}
+
+
+nav{}
+section{}
